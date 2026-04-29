@@ -7,9 +7,21 @@ subject,Subjects,true
 location,Location
 latitude,Latitude
 longitude,Longitude
+film_format,Film Format,
+film_stock_name,Film Stock
+film_iso,ISO
+film_type,Color Type
+camera,Camera
+lens_focal_length,Lens Focal Length
+flash,Flash
+orientation,Orientation
+exposure_number,Number of Exposures
+interior_or_exterior,Interior or Exterior
+developer,Development Lab
 source,Source
 identifier,Source Identifier,,
 type,Type,
 format,Format,
+resolution,Resolution
 rights,Rights,
 rightsstatement,Rights Statement,,true
