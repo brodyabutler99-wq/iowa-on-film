@@ -8,15 +8,15 @@ location,Location
 latitude,Latitude
 longitude,Longitude
 film_format,Film Format,
-film_stock_name,Film Stock
+film_stock_name,Film Stock,true
 film_iso,ISO
-film_type,Color Type
+film_type,Color Type,true
 camera,Camera
-lens_focal_length,Lens Focal Length
-flash,Flash
-orientation,Orientation
-exposure_number,Number of Exposures
-interior_or_exterior,Interior or Exterior
+lens_focal_length,Lens Focal Length,true
+flash,Flash,true
+orientation,Orientation,true
+exposure_number,Number of Exposures,true
+interior_or_exterior,Interior or Exterior,true
 developer,Development Lab
 source,Source
 identifier,Source Identifier,,
