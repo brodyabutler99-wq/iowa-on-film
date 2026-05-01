@@ -1,5 +1,16 @@
 field,display_name,btn,hidden,sort_name
-date,Date,,,Date
-creator,Creator,,,
-subject,,true
-location,,true
+photographer,Photographer,true,,Photographer
+date,Date Created,false,,true
+subject,Subjects,true,,Subject
+location,Location,true,,Location
+film_format,Film Format,true,,Film Format
+film_stock_name,Film Stock,true,,Film Stock
+film_iso,ISO,true,,ISO
+film_type,Color Type,true,,Color Type
+camera,Camera,true,,
+lens_focal_length,Lens Focal Length,true,,Focal Length
+flash,Flash,true,,Flash
+orientation,Orientation,true,,Orientation
+exposure_number,Number of Exposures,true,,Exposures
+interior_or_exterior,Interior or Exterior,true,,Interior or Exterior
+developer,Development Lab,true,,Development Lab
