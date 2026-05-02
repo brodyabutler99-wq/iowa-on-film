@@ -22,3 +22,4 @@ source,false,false
 identifier,false,false
 format,true,true
 resolution,false,false
+roll_number,true,true
