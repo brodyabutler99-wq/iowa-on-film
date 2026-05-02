@@ -14,3 +14,4 @@ orientation,Orientation,true,,Orientation
 exposure_number,Number of Exposures,true,,Exposures
 interior_or_exterior,Interior or Exterior,true,,Interior or Exterior
 developer,Development Lab,true,,Development Lab
+roll_number,My Roll Number,true,,My Roll Number
